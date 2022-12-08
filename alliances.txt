@@ -1,0 +1,9 @@
+Hamburg,Lubeka,1241
+Lubeka,Soest,1241
+Osnabruck,Minden,Coesfeld,Herford,Munster2,1246
+Munden,Nordheim,1246
+Dortmund,Soest,Munster,Lippstadt,1253
+Stade,Brunszwik,1253
+Kolonia,Brema,1253
+Brema,Hamburg,1253
+Roztoka,Wismar,Lubeka2,1259
